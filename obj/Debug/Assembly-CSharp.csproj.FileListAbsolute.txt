@@ -1,0 +1,1 @@
+C:\Users\trbaron\workspace\HoloHackOneWeek\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

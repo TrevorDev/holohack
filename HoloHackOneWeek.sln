@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{533C552B-7B37-B76D-05C2-D4F425B8F6AA}") = "HoloHackOneWeek", "Assembly-CSharp.csproj", "{ACB1C765-52BE-D2C2-31E5-325C8B53213D}"
+EndProject
+Project("{533C552B-7B37-B76D-05C2-D4F425B8F6AA}") = "HoloHackOneWeek", "Assembly-CSharp-Editor.csproj", "{302B5236-30A0-1CE6-B9B0-82EBDC2AD4F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB1C765-52BE-D2C2-31E5-325C8B53213D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB1C765-52BE-D2C2-31E5-325C8B53213D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB1C765-52BE-D2C2-31E5-325C8B53213D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB1C765-52BE-D2C2-31E5-325C8B53213D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302B5236-30A0-1CE6-B9B0-82EBDC2AD4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302B5236-30A0-1CE6-B9B0-82EBDC2AD4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302B5236-30A0-1CE6-B9B0-82EBDC2AD4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302B5236-30A0-1CE6-B9B0-82EBDC2AD4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
